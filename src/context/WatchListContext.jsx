@@ -1,3 +1,5 @@
+
+/* eslint-disable react-refresh/only-export-components */
 import { Children, createContext, useState,useEffect } from "react";
 
 export const WatchListContext = createContext()
